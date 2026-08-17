@@ -1,3 +1,0 @@
-[OK] Starting browser: ['chromium']
-[OK] Headless mode: False (headed=True)
-[CLEANUP] Closing browser context and stopping Playwright...
